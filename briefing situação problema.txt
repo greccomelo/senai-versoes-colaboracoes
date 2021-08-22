@@ -1,0 +1,4 @@
+Cadastrar as Peças
+- Peça deve possuir mais de 100g
+- Capacidade máxima de peças cadastradas é de 10 unidades
+- Verificar se a peça possui nome com mais de 3 caracteres. Se SIM, permitir cadastro. NÃO, se nome vazio, notificar o usuário e negar cadastro.
